@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 import os
-from tqdm import *
+from tqdm import tqdm
 from sklearn.decomposition import PCA
 from matplotlib import pyplot as plt
 
